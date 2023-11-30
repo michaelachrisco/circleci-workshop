@@ -1,5 +1,5 @@
 # circleci-workshop
-Bitwise Consulting - Circleci Workshop
+Circleci Workshop
 
 This workshop will focus on the basics behind Continuous Integration within [CircleCI](https://circleci.com/docs/2.0/about-circleci/). You will gain the
 skills to use and apply workflows to automate the three most common workflows within the development process. This will enable teams to find problems and solve them, quickly.
